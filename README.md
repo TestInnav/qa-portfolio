@@ -1,6 +1,6 @@
 # QA Portfolio
 
-Hi! I am a Junior QA Engineer.  
+Hi! I am a QA Engineer.  
 This repository contains examples of my testing work.
 
 ## 📌 Contents
