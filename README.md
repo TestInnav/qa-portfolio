@@ -14,4 +14,4 @@ This repository contains examples of my testing work.
 - GitHub
 
 ## 📫 Contact
-- Email: your@email.com
+- Email: inna.vdovina@gmail.com
